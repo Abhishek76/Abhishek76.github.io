@@ -6,7 +6,9 @@ canvas{ display: block; vertical-align: bottom; }
     position:absolute; 
     width: 100%; 
     height: 100%; 
-    background-color: #000516; 
+    background-color: #000516;
+    
+    background-image: linear-gradient(#000516, #0b1e5f);
     background-image: url(""); 
     background-repeat: no-repeat; 
     background-size: cover; 
