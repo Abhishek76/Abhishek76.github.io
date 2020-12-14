@@ -1,4 +1,4 @@
-/* ---- reset ---- */ 
+/* ---- reset ----#0b1e5f */ 
 body{ margin:0; font:normal 75% Arial, Helvetica, sans-serif; } 
 canvas{ display: block; vertical-align: bottom; }
 /* ---- particles.js container ---- */ 
@@ -8,7 +8,7 @@ canvas{ display: block; vertical-align: bottom; }
     height: 100%; 
     background-color: #000516;
     
-    background-image: linear-gradient(#000516, #0b1e5f);
+    background-image: linear-gradient(#000516, #e699c1 );
     background-image: url(""); 
     background-repeat: no-repeat; 
     background-size: cover; 
